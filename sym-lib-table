@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "qis_8ch_inline_pf-rescue")(type "Legacy")(uri "/home/javiert/Dropbox/Skipper/blueprints/circuits/qis_8ch_inline/qis_8ch_inline_pf/qis_8ch_inline_pf-rescue.lib")(options "")(descr ""))
+  (lib (name "smallSkipperPF-rescue")(type "Legacy")(uri "/home/javiert/Dropbox/Skipper/blueprints/circuits/smallSkipperPF/smallSkipperPF-rescue.lib")(options "")(descr ""))
+)
